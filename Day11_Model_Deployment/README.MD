@@ -39,4 +39,5 @@ Input:
 - Outlet_Type: Supermarket Type1  
 
 Output:
+
 Predicted Sales: ₹ 5576.08
